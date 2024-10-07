@@ -8,7 +8,7 @@
 
 This project is a mobile application developed with React Native and TypeScript. It allows chefs to manage a 12-course dinner menu by adding, categorizing, and viewing dishes. It uses React Navigation for screen transitions and the Context API for state management.
 
-** Features **
+**Features**
 Add Dishes: Chefs can add dishes under predefined course categories.
 View Menu: Dishes are displayed in the menu organized by their respective course.
 Dish Count: Home screen dynamically displays the total number of dishes across all courses.
